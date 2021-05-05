@@ -26,6 +26,8 @@ OTA update servers: [http://ota.tasmota.com/tasmota/release](http://ota.tasmota.
 
 - :warning: BREAKING :warning: ESP32 partition layout changed to accommodate more file space on most boards and more code space on Core2 and Odroid-GO [#11746](https://github.com/arendst/Tasmota/issues/11746)
 
+Michael
+
 - Redesigned initial GUI wifi configuration by Adrian Scillato [#11693](https://github.com/arendst/Tasmota/issues/11693)
 - Support to control [NEC and OPTOMA LCD/DLP Projector](Projector.md)
 - Support XPT2046 touch screen digitizer on ILI9341 display 
